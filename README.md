@@ -1,2 +1,2 @@
 # ELEC576_final_project
-Final project
+Arthor: Xinjian Yu, Haoquan Zhao
